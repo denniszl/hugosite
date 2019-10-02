@@ -1,4 +1,29 @@
-baseURL = "http://example.org/"
+baseURL = "https://denniszl.github.io/"
 languageCode = "ja-JP"
-title = "dennis' site"
+title = "Dennis rants here"
 theme = "ananke"
+hasCJKLanguage="true"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/about/"
+    weight = -110
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/posts/"
+    weight = -110
+  [[menu.main]]
+    identifier = "resume"
+    name = "resume"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "https://www.dropbox.com/s/9tv5vh0ogu35myt/dennisliangresume.pdf?dl=0"
+    weight = -110
+
+[params]
+    github = "https://github.com/denniszl"
+    description=""
