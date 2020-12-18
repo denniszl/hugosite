@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;software&#34; &#34;engineering&#34; on Dennis rants here</title>
+    <link>https://denniszl.github.io/</link>
+    <description>Recent content in &#34;software&#34; &#34;engineering&#34; on Dennis rants here</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 01 Oct 2019 20:41:54 -0700</lastBuildDate><atom:link href="https://denniszl.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Studying for the JLPT</title>
+      <link>https://denniszl.github.io/posts/post2/</link>
+      <pubDate>Tue, 01 Oct 2019 20:41:54 -0700</pubDate>
+      
+      <guid>https://denniszl.github.io/posts/post2/</guid>
+      <description>Studying any language is difficult and it only feels worse because the more I learn the more I feel like I have to learn (at least in my case). Learning any language feels like swimming through an ocean. Even if you know you&amp;rsquo;re making progress, when it feels like you&amp;rsquo;re wading through something endless, progress seems meaningless to measure. That&amp;rsquo;s why it&amp;rsquo;s good to have goalposts every once in a while.</description>
+    </item>
+    
+    <item>
+      <title>Testing CJK works</title>
+      <link>https://denniszl.github.io/posts/post1/</link>
+      <pubDate>Thu, 19 Sep 2019 14:23:22 -0700</pubDate>
+      
+      <guid>https://denniszl.github.io/posts/post1/</guid>
+      <description>日本語が話せます。 Hugo is pretty neat.</description>
+    </item>
+    
+  </channel>
+</rss>
